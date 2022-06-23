@@ -45,10 +45,9 @@ Follow these steps to get a local copy of Orpheus up and running:
 ### Installation
 
 1. Clone the repo 
-   * Without modules:
-      ```shell
-      git clone https://github.com/yarrm80s/orpheusdl.git
-      ```
+   ```shell
+   git clone https://github.com/renjahsta/orpheusdl.git
+   ```
 2. Install all requirements
    ```shell
    pip install -r requirements.txt
@@ -108,6 +107,8 @@ Yarrm80s - [@yarrm80s](https://github.com/yarrm80s)
 Dniel97 - [@Dniel97](https://github.com/Dniel97)
 
 uh wot - [@uh wot](https://github.com/uhwot)
+
+Adrián Mejía - [@Adrián Mejía](https://github.com/adrianmejiam/orpheusdl.git)
 
 Project Link: [Orpheus Public GitHub Repository](https://github.com/yarrm80s/orpheusdl)
 
