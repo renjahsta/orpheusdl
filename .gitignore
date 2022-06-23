@@ -49,4 +49,4 @@ Thumbs.db
 *.wmv
 
 # json files
-.json
+*.json
