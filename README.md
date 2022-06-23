@@ -107,9 +107,9 @@ Yarrm80s - [@yarrm80s](https://github.com/yarrm80s)
 
 Dniel97 - [@Dniel97](https://github.com/Dniel97)
 
+uh wot - [@uh wot](https://github.com/uhwot)
+
 Project Link: [Orpheus Public GitHub Repository](https://github.com/yarrm80s/orpheusdl)
-
-
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
